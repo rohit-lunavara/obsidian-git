@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evals are the new PRD. Here is the playbook with the CEO of the leader in the space (Ankur Goyal, Founder and CEO, Braintrust).md",
+                "file": "Template - Fleeting Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evals are the new PRD. Here is the playbook with the CEO of the leader in the space (Ankur Goyal, Founder and CEO, Braintrust)"
+              "title": "Template - Fleeting Notes"
             }
           }
         ]
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evals are the new PRD. Here is the playbook with the CEO of the leader in the space (Ankur Goyal, Founder and CEO, Braintrust).md",
+                "file": "Template - Fleeting Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Evals are the new PRD. Here is the playbook with the CEO of the leader in the space (Ankur Goyal, Founder and CEO, Braintrust)"
+              "title": "Outline of Template - Fleeting Notes"
             }
           },
           {
@@ -211,8 +211,9 @@
   },
   "active": "82edc761816c3afa",
   "lastOpenFiles": [
-    "Telling an AI model that it’s an expert programmer makes it a worse programmer.md",
+    "The Opposite of Burnout.md",
     "Evals are the new PRD. Here is the playbook with the CEO of the leader in the space (Ankur Goyal, Founder and CEO, Braintrust).md",
+    "Telling an AI model that it’s an expert programmer makes it a worse programmer.md",
     "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia (Healthy Gamer).md",
     "Test note.md",
     "Nobody Knows.md",

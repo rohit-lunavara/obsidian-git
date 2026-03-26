@@ -6,3 +6,5 @@ tags:
 
 > [!QUOTE] Original Capture
 > {{VALUE}}
+
+{{VALUE}}
