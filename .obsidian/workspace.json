@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "bd68f130750ad63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a7e8e0ef7aa4df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82edc761816c3afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia (Healthy Gamer).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia (Healthy Gamer)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f673ff6e10fbd22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a356422d0b586d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f319a29e8f2c943",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c8ffa5bbb065039",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#fleeting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8bdccc36023da27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9c4234d41356e5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "698fb92d1d1fb827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca4ea4c7c376840",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tips for finding and vetting a cofounder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tips for finding and vetting a cofounder"
+            }
+          },
+          {
+            "id": "78137d1ea7c8606d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tips for finding and vetting a cofounder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tips for finding and vetting a cofounder"
+            }
+          },
+          {
+            "id": "58f9b8939efa5408",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f8f3d56202569cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df05dd58e8a9b48d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tips for finding and vetting a cofounder.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tips for finding and vetting a cofounder"
+            }
+          },
+          {
+            "id": "f76be6a09e11cc3f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "82edc761816c3afa",
+  "lastOpenFiles": [
+    "Nobody Knows.md",
+    "How Agentic RAG Works?.md",
+    "Design Patterns For Building Trust.md",
+    "Pasted image 20260326023105.png",
+    "What we wish we knew about building AI agents.md",
+    "Code as a Tool of Process.md",
+    "how-to-measure-ai-quality.png",
+    "How to use Obsidian.md",
+    "How the top AI-native startups launch and grow .md",
+    "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia (Healthy Gamer).md",
+    "Tips for finding and vetting a cofounder.md",
+    "On AI Fatigue.md",
+    "Don’t change the rules & the behavior will definitely not change.md",
+    "How Microsoft’s AI VP automates everything with Warp | Marco Casalaina.md",
+    "Finishing Your Tasks Doesn’t Mean You’re Doing Your Job.md",
+    "Bases/Fleeting Notes.base",
+    "Bases",
+    "Template - Fleeting Notes.md"
+  ]
+}
