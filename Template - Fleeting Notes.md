@@ -5,6 +5,6 @@ tags:
 # References
 
 > [!QUOTE] Original Capture
-> {{VALUE}}
+> 
 
-{{VALUE}}
+{{VALUE:link}}

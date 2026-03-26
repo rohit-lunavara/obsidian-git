@@ -7,8 +7,8 @@
       "command": true,
       "templatePath": "Template - Fleeting Notes.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{VALUE:title}}"
       },
       "folder": {
         "enabled": false,
