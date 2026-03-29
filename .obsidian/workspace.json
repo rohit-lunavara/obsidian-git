@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why ATMs didn’t kill bank teller jobs, but the iPhone did.md",
+                "file": "Don’t Design for Average Users.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why ATMs didn’t kill bank teller jobs, but the iPhone did"
+              "title": "Don’t Design for Average Users"
             }
           }
         ]
@@ -211,8 +211,11 @@
   },
   "active": "82fd9d5c2be189ef",
   "lastOpenFiles": [
-    "Why pilots matter - and how to run them right.md",
+    "Storytelling as a Leadership Skill.md",
+    "Don’t Design for Average Users.md",
+    "Pasted image 20260329134620.png",
     "Why ATMs didn’t kill bank teller jobs, but the iPhone did.md",
+    "Why pilots matter - and how to run them right.md",
     "Build SaaS with Strong Opinions.md",
     "Just make it easy to win.md",
     "Just make it really hard to fail.md",
