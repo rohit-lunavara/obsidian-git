@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The art of influence - The single most important skill that AI can’t replace.md",
+                "file": "What's GTM as Product?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The art of influence - The single most important skill that AI can’t replace"
+              "title": "What's GTM as Product?"
             }
           }
         ]
@@ -211,8 +211,11 @@
   },
   "active": "82fd9d5c2be189ef",
   "lastOpenFiles": [
-    "Don’t Design for Average Users.md",
+    "On Rejection.md",
+    "What's GTM as Product?.md",
+    "Test IDs are an a11y smell.md",
     "The art of influence - The single most important skill that AI can’t replace.md",
+    "Don’t Design for Average Users.md",
     "Storytelling as a Leadership Skill.md",
     "Pasted image 20260329134620.png",
     "Why ATMs didn’t kill bank teller jobs, but the iPhone did.md",
@@ -237,9 +240,6 @@
     "How to use Obsidian.md",
     "How the top AI-native startups launch and grow .md",
     "Tips for finding and vetting a cofounder.md",
-    "On AI Fatigue.md",
-    "Don’t change the rules & the behavior will definitely not change.md",
-    "How Microsoft’s AI VP automates everything with Warp | Marco Casalaina.md",
     "Bases/Fleeting Notes.base",
     "Bases"
   ]
