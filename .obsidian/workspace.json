@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What's GTM as Product?.md",
+                "file": "The Impatient Man - Why You Feel Like A Failure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What's GTM as Product?"
+              "title": "The Impatient Man - Why You Feel Like A Failure"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "82fd9d5c2be189ef",
   "lastOpenFiles": [
-    "On Rejection.md",
     "What's GTM as Product?.md",
+    "The Impatient Man - Why You Feel Like A Failure.md",
+    "On Rejection.md",
     "Test IDs are an a11y smell.md",
     "The art of influence - The single most important skill that AI can’t replace.md",
     "Don’t Design for Average Users.md",
@@ -239,7 +240,6 @@
     "how-to-measure-ai-quality.png",
     "How to use Obsidian.md",
     "How the top AI-native startups launch and grow .md",
-    "Tips for finding and vetting a cofounder.md",
     "Bases/Fleeting Notes.base",
     "Bases"
   ]
