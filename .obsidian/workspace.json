@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "986868cda0355460",
+        "id": "6e5e4b7eb574aa64",
         "type": "tabs",
         "children": [
           {
-            "id": "82fd9d5c2be189ef",
+            "id": "a21ec5e54c66bf41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Impatient Man - Why You Feel Like A Failure.md",
+                "file": "Building a UI Without Breakpoints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Impatient Man - Why You Feel Like A Failure"
+              "title": "Building a UI Without Breakpoints"
             }
           }
         ]
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -209,10 +209,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "82fd9d5c2be189ef",
+  "active": "a21ec5e54c66bf41",
   "lastOpenFiles": [
-    "What's GTM as Product?.md",
+    "Should You Even Try to Motivate Yourself?.md",
+    "Building a UI Without Breakpoints.md",
+    "Pasted image 20260428014426.png",
+    "How to Motivate Yourself to Do Anything.md",
+    "Capacity Is the Roadmap.md",
+    "Your intellectual fly is open.md",
+    "Using LLMs at Oxide.md",
+    "The peril of laziness lost.md",
     "The Impatient Man - Why You Feel Like A Failure.md",
+    "What's GTM as Product?.md",
     "On Rejection.md",
     "Test IDs are an a11y smell.md",
     "The art of influence - The single most important skill that AI can’t replace.md",
@@ -231,15 +239,8 @@
     "Telling an AI model that it’s an expert programmer makes it a worse programmer.md",
     "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia (Healthy Gamer).md",
     "Test note.md",
-    "Nobody Knows.md",
-    "How Agentic RAG Works?.md",
-    "Design Patterns For Building Trust.md",
     "Pasted image 20260326023105.png",
-    "What we wish we knew about building AI agents.md",
-    "Code as a Tool of Process.md",
     "how-to-measure-ai-quality.png",
-    "How to use Obsidian.md",
-    "How the top AI-native startups launch and grow .md",
     "Bases/Fleeting Notes.base",
     "Bases"
   ]
