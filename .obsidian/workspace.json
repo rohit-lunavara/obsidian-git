@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to do if you don't love your job.md",
+                "file": "Feeling Tired? Here Are 7 Things We Get Wrong About What Gives Us Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What to do if you don't love your job"
+              "title": "Feeling Tired? Here Are 7 Things We Get Wrong About What Gives Us Energy"
             }
           }
         ]
@@ -211,8 +211,10 @@
   },
   "active": "d28bdbdc1b30a1e1",
   "lastOpenFiles": [
-    "How a non-coder built Memelord - From $6.90 newsletter to $3,000,000 API.md",
+    "Agents as scaffolding for recurring tasks.md",
+    "Feeling Tired? Here Are 7 Things We Get Wrong About What Gives Us Energy.md",
     "What to do if you don't love your job.md",
+    "How a non-coder built Memelord - From $6.90 newsletter to $3,000,000 API.md",
     "I spent $200 on Claude Design so you don’t have to.md",
     "GPT 5.5 just did what no other model could.md",
     "Run Out to Meet It.md",
@@ -237,8 +239,6 @@
     "Build SaaS with Strong Opinions.md",
     "Just make it easy to win.md",
     "Just make it really hard to fail.md",
-    "Template - Fleeting Notes.md",
-    "asdf.md",
     "Pasted image 20260326023105.png",
     "how-to-measure-ai-quality.png",
     "Bases/Fleeting Notes.base",
