@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Fundamentals] Question behind the question.md",
+                "file": "The Vertical Codebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[Fundamentals] Question behind the question"
+              "title": "The Vertical Codebase"
             }
           }
         ]
@@ -211,8 +211,10 @@
   },
   "active": "d28bdbdc1b30a1e1",
   "lastOpenFiles": [
-    "The Relaxation Paradox - Why Zoning Out Doesn’t Always Restore Your Energy.md",
+    "Pasted image 20260508003129.png",
     "[Fundamentals] Question behind the question.md",
+    "The Vertical Codebase.md",
+    "The Relaxation Paradox - Why Zoning Out Doesn’t Always Restore Your Energy.md",
     "Pasted image 20260507002821.png",
     "Pasted image 20260507002723.png",
     "Pasted image 20260507002025.png",
@@ -240,8 +242,6 @@
     "The peril of laziness lost.md",
     "The Impatient Man - Why You Feel Like A Failure.md",
     "What's GTM as Product?.md",
-    "On Rejection.md",
-    "Test IDs are an a11y smell.md",
     "Pasted image 20260329134620.png",
     "Pasted image 20260326023105.png",
     "how-to-measure-ai-quality.png",
