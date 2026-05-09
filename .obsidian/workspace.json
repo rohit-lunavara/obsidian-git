@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The stuff nobody tells you about startup marketing.md",
+                "file": "Frontend Fundamentals - Splitting Functions Combined By Logic Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The stuff nobody tells you about startup marketing"
+              "title": "Frontend Fundamentals - Splitting Functions Combined By Logic Type"
             }
           }
         ]
@@ -211,8 +211,11 @@
   },
   "active": "d28bdbdc1b30a1e1",
   "lastOpenFiles": [
-    "15 ideas to help you build a better personal network .md",
+    "Frontend Fundamentals - Abstracting Implementation Details.md",
+    "Frontend Fundamentals - Splitting Functions Combined By Logic Type.md",
+    "Frontend Fundamentals - Separating Code That Doesn't Run Together.md",
     "The stuff nobody tells you about startup marketing.md",
+    "15 ideas to help you build a better personal network .md",
     "The Vertical Codebase.md",
     "Pasted image 20260508003129.png",
     "[Fundamentals] Question behind the question.md",
@@ -240,9 +243,6 @@
     "How to Motivate Yourself to Do Anything.md",
     "Capacity Is the Roadmap.md",
     "Your intellectual fly is open.md",
-    "Using LLMs at Oxide.md",
-    "The peril of laziness lost.md",
-    "The Impatient Man - Why You Feel Like A Failure.md",
     "Pasted image 20260329134620.png",
     "Pasted image 20260326023105.png",
     "how-to-measure-ai-quality.png",
