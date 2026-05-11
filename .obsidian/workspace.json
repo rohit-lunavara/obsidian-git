@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The golden rules of agent-first product engineering.md",
+                "file": "How to build a company that withstands any era | Eric Ries, Lean Startup author.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The golden rules of agent-first product engineering"
+              "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author"
             }
           }
         ]
@@ -211,9 +211,10 @@
   },
   "active": "49c683c87d432cee",
   "lastOpenFiles": [
+    "The golden rules of agent-first product engineering.md",
+    "How to build a company that withstands any era | Eric Ries, Lean Startup author.md",
     "Pasted image 20260511200018.png",
     "Lesson Three - Rhythmic Productivity - A More Humane Way to Work.md",
-    "The golden rules of agent-first product engineering.md",
     "Pasted image 20260511195622.png",
     "Demos not memos - How Stripe built their internal AI prototyping tool | Owen Williams.md",
     "2026-05-09.md",
@@ -247,7 +248,6 @@
     "Pasted image 20260428014426.png",
     "Pasted image 20260329134620.png",
     "Pasted image 20260326023105.png",
-    "how-to-measure-ai-quality.png",
     "Bases/Fleeting Notes.base",
     "Bases"
   ]
