@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "092f90c89a47e887",
+        "id": "bbd92b9354697d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "49c683c87d432cee",
+            "id": "f40391e4a8f57fe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snapchat CEO - Why distribution has become the most important moat | Evan Spiegel.md",
-                "mode": "preview",
+                "file": "The high-growth handbook - Molly Graham’s frameworks for leading through chaos, change, and scale.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snapchat CEO - Why distribution has become the most important moat | Evan Spiegel"
+              "title": "The high-growth handbook - Molly Graham’s frameworks for leading through chaos, change, and scale"
             }
           }
         ]
@@ -209,10 +209,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "49c683c87d432cee",
+  "active": "f40391e4a8f57fe4",
   "lastOpenFiles": [
-    "What’s working right now in AI search.md",
+    "The high-growth handbook - Molly Graham’s frameworks for leading through chaos, change, and scale.md",
     "Snapchat CEO - Why distribution has become the most important moat | Evan Spiegel.md",
+    "What’s working right now in AI search.md",
     "What to do if you're not \"detail oriented\".md",
     "The best AI-native GTM plays you're not running.md",
     "The state of B2B monetization in 2026.md",
@@ -239,7 +240,6 @@
     "Frontend Fundamentals - Splitting Functions Combined By Logic Type.md",
     "Frontend Fundamentals - Abstracting Implementation Details.md",
     "Frontend Fundamentals - Separating Code That Doesn't Run Together.md",
-    "The stuff nobody tells you about startup marketing.md",
     "Pasted image 20260508003129.png",
     "Pasted image 20260507002821.png",
     "Pasted image 20260507002723.png",
