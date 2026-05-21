@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ownership Problem - Why We Get Territorial And What To Do About It.md",
+                "file": "Signposting - How to reduce cognitive load for your reader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Ownership Problem - Why We Get Territorial And What To Do About It"
+              "title": "Signposting - How to reduce cognitive load for your reader"
             }
           }
         ]
@@ -210,8 +210,12 @@
   },
   "active": "f40391e4a8f57fe4",
   "lastOpenFiles": [
-    "HTML is the new Markdown - How Anthropic engineers are building with Claude Code | Thariq Shihipar.md",
+    "I’m an introvert. This is how I get myself to speak up..md",
+    "Signposting - How to reduce cognitive load for your reader.md",
+    "WTF does a product manager do? (and why engineers should care).md",
+    "Pasted image 20260521231714.png",
     "The Ownership Problem - Why We Get Territorial And What To Do About It.md",
+    "HTML is the new Markdown - How Anthropic engineers are building with Claude Code | Thariq Shihipar.md",
     "The high-growth handbook - Molly Graham’s frameworks for leading through chaos, change, and scale.md",
     "Snapchat CEO - Why distribution has become the most important moat | Evan Spiegel.md",
     "What’s working right now in AI search.md",
@@ -236,9 +240,6 @@
     "Frontend Fundamentals - Considering Form Cohesion.md",
     "Frontend Fundamentals - Unifying Return Types for Similar Functions.md",
     "Frontend Fundamentals - Make Comparisons Read from Left to Right.md",
-    "Frontend Fundamentals - Reducing Eye Movement While Reading Code.md",
-    "Frontend Fundamentals - Naming Complex Conditions.md",
-    "Frontend Fundamentals - Splitting Functions Combined By Logic Type.md",
     "Pasted image 20260508003129.png",
     "Pasted image 20260507002821.png",
     "Pasted image 20260507002723.png",
@@ -246,7 +247,6 @@
     "Pasted image 20260506233229.png",
     "Pasted image 20260428014426.png",
     "Pasted image 20260329134620.png",
-    "Pasted image 20260326023105.png",
     "Bases/Fleeting Notes.base",
     "Bases"
   ]
