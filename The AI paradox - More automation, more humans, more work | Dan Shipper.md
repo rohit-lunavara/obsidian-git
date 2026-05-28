@@ -1,0 +1,28 @@
+---
+tags:
+  - fleeting
+---
+# References
+
+> [!QUOTE] Original Capture
+> The future of work will happen inside Codex or Claude Code. Instead of putting AI into your SaaS tool, you’ll use your SaaS tools within your favorite AI agent. Dan spends all his time in Codex now—writing documents, managing email, doing research, everything. Codex has an in-app browser where Dan uses Google Docs, PostHog, and everything he needs. The agent can see what he’s doing and has all of his context, so he and his agent collaborate in real time. This is fundamentally different from the CLI era (which Dan says is already over). GUIs are back, but now they live inside your agent’s UI.
+>
+> Every company will have one “super-agent” inside their Slack that every employee will use. Dan initially thought every employee would have their personal work agent, like an AI shadow org chart, but he’s completely flipped his view. He realized agents need humans who care about them. When someone gets tired of maintaining their personal agent, it becomes useless. The winning model is one forward deployed engineer or AI-savvy person who maintains a company-wide agent (like Shopify’s River or Viktor), and then it trickles down to more specialized team agents as models improve and become less fiddly.
+>
+> SaaS is not dead. In fact, Dan is bullish on SaaS stocks. When users bring their own AI (via Codex or Claude Code) to use SaaS products, the user—not the SaaS company—pays for tokens. This saves SaaS company’s margins. Plus, agents don’t replace SaaS usage; they increase it. Everyone at Every uses agents heavily, and their SaaS spend is up year-over-year, since the agents need their own seats. Dan predicts that agents will create massive new demand for SaaS because there will be tons of agents using these products at high volume.
+>
+> PMs will thrive in the AI era. His proof: Marcus, a former PM who previously ran Axios’s writing product, joined Every after getting “super AI-pilled.” He’s “lightly technical” but could never have been hired as an engineer even a year ago. Now he runs their product Spiral and ships faster than almost anyone on the team. He pairs technical knowledge with spiky product sense, deep user empathy, and an eye for what matters. Dan thinks any PM who gets really AI-native will be incredibly dangerous because the building is done for you—what matters is figuring out what to build and if it’s great.
+>
+> Full-stack designers are also becoming superheroes. Designers used to make beautiful interactions that engineers didn’t want to build or couldn’t execute properly. Now designers don’t need to hand things off; they can build it themselves. This is huge for company velocity, but it’s also a massive opportunity for designers to become entrepreneurs and start their own companies. Dan thinks designers are naturally creative people, and AI is the perfect tool for them because it lets them bring their vision to life without the traditional bottlenecks.
+>
+> The AI job apocalypse is not happening, but you do need to evolve to stay relevant. Models make yesterday’s human competence cheap. They ingest what’s already happened and make it easy to deploy anywhere. But because everyone uses the same models, it all looks the same if you use it the default way; it becomes commoditized slop. Humans then take that frozen competence and use it to make something new and interesting for their specific situation. Structurally, models will always trail behind people pushing the edge. The key: “ride the models”—use them for everything you do, try new models when they drop, keep turning over rocks.
+>
+> Automation is a lie. Every automation needs a human to manage it. Every, the company, doubled in size this year despite being incredibly AI-forward. Why? Because in order to make automation work well, you need humans making sure everything keeps working. This is why benchmarks are misleading—they measure AI on problems we’ve already framed and can score, but there’s always a higher frame.
+>
+> Build software for humans and agents to use together. The current model is building a CLI that an agent uses independently. Instead, you and your agent should be using the app together. This creates new design challenges—agents can make a billion requests in three seconds, so you need approval flows, inboxes that summarize what happened, logs, and easy rollback. You also need to handle the infrastructure load (this is why GitHub is struggling: it’s mostly agents using it now).
+>
+> We will read way more AI-generated writing and we will like it. Human writing is incredibly important for things that matter, but for internal docs, planning, and email, AI-generated is often better because most people are bad at writing strategy documents.
+>
+> Forward deployed engineers are the new most essential role. The big model companies have teams of people managing their internal agents, and those teams aren’t going away. This is a specific type of engineer who loves being hands-on with the latest thing and making a being that works in a workspace. It’s different from traditional software building, and certain engineers love it. As models get better, this role will evolve but not disappear—you’ll just manage more agents doing more things.
+
+https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper?utm_source=post-email-title&publication_id=10845&post_id=197415169&utm_campaign=email-post-title&isFreemail=false&r=969sr&triedRedirect=true
