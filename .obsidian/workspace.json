@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trust Factory.md",
+                "file": "How this visually impaired engineer uses Claude Code to make his life more accessible | Joe McCormick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trust Factory"
+              "title": "How this visually impaired engineer uses Claude Code to make his life more accessible | Joe McCormick"
             }
           }
         ]
@@ -186,7 +186,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,8 +211,10 @@
   },
   "active": "f40391e4a8f57fe4",
   "lastOpenFiles": [
-    "What launched at Google I/What launched at Google IO 2026 (30-minute day 1 recap).md",
+    "Claude Opus 4.6 vs GPT-5.3 Codex - Which is the better software engineer?.md",
+    "How this visually impaired engineer uses Claude Code to make his life more accessible | Joe McCormick.md",
     "Trust Factory.md",
+    "What launched at Google I/What launched at Google IO 2026 (30-minute day 1 recap).md",
     "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic).md",
     "What launched at Google I",
     "Ways to actually be helpful to others.md",
@@ -236,8 +239,6 @@
     "Great companies are built in hackathons.md",
     "We Tested Marketing Incentives to AI Agents. Here's What Happened..md",
     "Quests, token leaderboards, and a skills marketplace - The elite AI adoption playbook | John Kim (Sendbird).md",
-    "How to build a company that withstands any era | Eric Ries, Lean Startup author.md",
-    "The golden rules of agent-first product engineering.md",
     "Pasted image 20260511200018.png",
     "Pasted image 20260511195622.png",
     "Untitled.canvas",
