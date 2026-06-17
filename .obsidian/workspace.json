@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd92b9354697d9a",
+        "id": "00ec97d30e2cb080",
         "type": "tabs",
         "children": [
           {
-            "id": "f40391e4a8f57fe4",
+            "id": "c7ef2477e91c2991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "How to share your point of view (even if you’re afraid of being wrong).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -209,10 +209,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f40391e4a8f57fe4",
+  "active": "c7ef2477e91c2991",
   "lastOpenFiles": [
-    "How to build your own AI developer tools with Claude Code | CJ Hess (Tenex).md",
+    "This week on How I AI - I gave Claude Code our entire codebase. Our customers noticed.md",
+    "Untitled.md",
     "How to share your point of view (even if you’re afraid of being wrong).md",
+    "How to build your own AI developer tools with Claude Code | CJ Hess (Tenex).md",
     "Focus is Motivation.md",
     "Pasted image 20260611211318.png",
     "Pasted image 20260611211310.png",
@@ -240,8 +242,6 @@
     "What to do if you're not \"detail oriented\".md",
     "The best AI-native GTM plays you're not running.md",
     "The state of B2B monetization in 2026.md",
-    "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion).md",
-    "We Have Learned Nothing.md",
     "Pasted image 20260511200018.png",
     "Pasted image 20260511195622.png",
     "Untitled.canvas",
