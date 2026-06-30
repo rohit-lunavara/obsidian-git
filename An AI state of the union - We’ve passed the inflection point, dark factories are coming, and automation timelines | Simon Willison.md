@@ -1,0 +1,28 @@
+---
+tags:
+  - fleeting
+---
+# References
+
+> [!QUOTE] Original Capture
+> November 2025 was a real inflection point for AI coding. GPT 5.1 and Claude Opus 4.5 crossed a threshold where coding agents went from “mostly works” to “almost always does what you want it to do.” Software engineers who tinkered over the holidays realized the technology had become genuinely reliable.
+> 
+> Code is cheap now. This simple idea has profound implications. The thing that used to take most of the time—writing code—now takes the least. The bottleneck has shifted to everything else: deciding what to build, proving ideas work, getting user feedback. Since prototyping is nearly free, Simon often builds three versions of every feature when he’s getting started.
+> 
+> AI exhaustion is real and underestimated. Simon runs four coding agents in parallel and is mentally wiped out by 11 a.m. He’s getting more time back, but his brain is exhausted from the intensity of directing multiple autonomous workers. Some engineers are losing sleep to keep agents running, checking work at 4 a.m. This may just be a novelty issue, but the underlying dynamic—that managing AI amplifies cognitive load even as it reduces labor—is a real tension. Good companies will manage expectations rather than expecting 5x output indefinitely.
+> 
+> Mid-career engineers are the most vulnerable—not juniors, not seniors. AI amplifies experienced engineers by letting them leverage decades of pattern recognition. It also dramatically helps new engineers onboard. Cloudflare and Shopify each hired a thousand interns because AI cut ramp-up time from a month to a week. But mid-career engineers who haven’t accumulated deep expertise and have already captured the beginner boost are in the most precarious position.
+> 
+> The “dark factory” is the most radical experiment in AI-assisted development happening right now. A company called StrongDM established a policy: nobody writes code, nobody reads code. Instead, they run a swarm of AI-simulated end users 24/7—thousands of fake employees making requests like “give me access to Jira”—at $10,000 a day in token costs. They even had coding agents build simulated versions of Slack, Jira, and Okta from API documentation so they could test without rate limits. The result: 32,000 lines of production code from three people, with quality maintained through behavioral testing rather than code review.
+> 
+> Red/green TDD is the single highest-leverage agentic engineering pattern. Having coding agents write tests first, watch them fail, then write the implementation, then watch them pass produces materially better results. The five-word prompt “use red/green TDD” encodes this entire workflow because the agents recognize the jargon. Simon hated doing TDD himself for years—but agents don’t get bored, and they don’t skip the discipline. The compounding benefit is that tests accumulate in the repository, which means agents can build new features without breaking old ones. Engineers who drop testing for speed are making a mistake; tests are what make speed sustainable.
+> 
+> “Hoarding things you know how to do” is one of his favorite agentic engineering patterns. Simon maintains a GitHub repo of 193 small HTML/JavaScript tools and a separate research repo of coding-agent experiments. Each one captures a technique, a proof of concept, or a library he’s tested. When a new problem arrives, he can point Claude Code at past projects and say “combine these two approaches.”
+> 
+> Start every project from a thin template, not a long instructions file. Coding agents are phenomenally good at matching existing patterns. A single test file with your preferred indentation and style is more effective than paragraphs of written instructions. Simon starts every project with a template containing one test (literally testing that 1 + 1 = 2) laid out in his preferred style. The agent picks it up and follows the convention across the entire codebase. This is cheaper and more reliable than maintaining elaborate prompt files.
+> 
+> The lethal trifecta makes AI agent security fundamentally unsolved. Whenever an AI agent has access to private data, exposure to untrusted content (like incoming emails), and the ability to send data externally (like replying to email), you have a lethal trifecta. Prompt injection—where malicious instructions in untrusted text override the agent’s intended behavior—cannot be reliably prevented. A 97% detection rate is a failing grade when 3 out of 100 attacks succeed. Simon has predicted a “Challenger disaster” for AI security every six months for three years. It hasn’t happened yet, but he’s pretty sure it will.
+> 
+> The pelican-on-a-bicycle benchmark accidentally became a real AI quality signal. Simon created it as a joke to mock numeric benchmarks—get each LLM to generate an SVG of a pelican riding a bicycle, and compare the drawings. Unexpectedly, there’s a strong correlation between how good the drawing is and how good the model is at everything else. Nobody can explain why. It’s become a meme: Gemini 3.1’s launch video featured a pelican riding a bicycle. The AI labs are aware of it and quietly competing on it. Simon’s secret countermeasure—an ocelot on a moped—was preemptively defeated when Gemini did all animal-vehicle combinations.
+
+https://www.lennysnewsletter.com/p/an-ai-state-of-the-union?utm_source=post-email-title&publication_id=10845&post_id=192024618&utm_campaign=email-post-title&isFreemail=false&r=969sr&triedRedirect=true
