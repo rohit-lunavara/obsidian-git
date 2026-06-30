@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams).md",
-                "mode": "preview",
+                "file": "The new inner game - Your unfair advantage in the age of AI.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)"
+              "title": "The new inner game - Your unfair advantage in the age of AI"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "Writing about writing.md",
     "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams).md",
+    "The new inner game - Your unfair advantage in the age of AI.md",
+    "Writing about writing.md",
     "How Claude Mythos found a 15-year-old bug in Mozilla Firefox - Brian Grinstead.md",
     "How to design AI agent loops - schedules, goals, and subagents in Claude Code and Codex.md",
     "Revised rules of engineering leadership.md",
@@ -241,7 +242,6 @@
     "Pasted image 20260521231714.png",
     "The Ownership Problem - Why We Get Territorial And What To Do About It.md",
     "HTML is the new Markdown - How Anthropic engineers are building with Claude Code | Thariq Shihipar.md",
-    "The high-growth handbook - Molly Graham’s frameworks for leading through chaos, change, and scale.md",
     "Pasted image 20260511200018.png",
     "Pasted image 20260511195622.png",
     "Untitled.canvas",
