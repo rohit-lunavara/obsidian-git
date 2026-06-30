@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing about writing.md",
-                "mode": "source",
+                "file": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing about writing"
+              "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)"
             }
           }
         ]
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,8 +211,9 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "How Claude Mythos found a 15-year-old bug in Mozilla Firefox - Brian Grinstead.md",
     "Writing about writing.md",
+    "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams).md",
+    "How Claude Mythos found a 15-year-old bug in Mozilla Firefox - Brian Grinstead.md",
     "How to design AI agent loops - schedules, goals, and subagents in Claude Code and Codex.md",
     "Revised rules of engineering leadership.md",
     "How to share your point of view (even if you’re afraid of being wrong).md",
@@ -241,7 +242,6 @@
     "The Ownership Problem - Why We Get Territorial And What To Do About It.md",
     "HTML is the new Markdown - How Anthropic engineers are building with Claude Code | Thariq Shihipar.md",
     "The high-growth handbook - Molly Graham’s frameworks for leading through chaos, change, and scale.md",
-    "Snapchat CEO - Why distribution has become the most important moat | Evan Spiegel.md",
     "Pasted image 20260511200018.png",
     "Pasted image 20260511195622.png",
     "Untitled.canvas",
