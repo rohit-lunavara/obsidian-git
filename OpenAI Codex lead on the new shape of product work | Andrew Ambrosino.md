@@ -1,0 +1,32 @@
+---
+tags:
+  - fleeting
+---
+# References
+
+> [!QUOTE] Original Capture
+> Product work has inverted: implementation has become cheap, so curation is now the bottleneck. The old product process was organized around the assumption that building things is expensive, so de-risk everything up front with documents, research, and prototypes. That assumption is gone. At OpenAI, Andrew sees many different explorations of the same idea happening in parallel because prototyping has become so easy. The hard work has shifted from “Can we build this?” to “Of all these attempts, what’s actually good, what should we fold together, and what should we frame differently?” The expensive part is now judgment, not implementation.
+> 
+> Your role is now defined by the average of what you spend time on. PMs write code, engineers do design. People are now defined less by their title than by how they spend their time. Rather than asking, “Where does design stop and engineering start?” the Codex team asks: If you averaged out everything someone does in a week, where do most of their dots land? That’s their role—and it shifts week to week as the product and the team evolve.
+> 
+> Eliminating the concept of roles is dangerous because it can erase the idea that disciplines have knowable best practices. Andrew is blunt about a specific pattern he finds alarming: companies announcing they’re “getting rid of the PM role” and having everyone just “be a builder.” His concern isn’t the loss of the title. It’s that decades of product discipline—things that have been tried, failed, refined, and codified—get quietly abandoned when someone writes some code and concludes that the process was always unnecessary. “Like, yes, you can use Excel. But you cannot work on the finance team.”
+> 
+> Run product like zone defense. With ideas flying at you from every direction, top-down annual planning breaks down, so you need to spread your team out to cover the whole company and find the gaps. If two product people are working too closely, Andrew treats it as a bad signal. You want spacing for full coverage, and to backfill with product-minded engineers when necessary.
+> 
+> AI is bad at design for two reasons. Practically, design is harder to grade than code (a compiler tells you code works; nothing tells a model a design is good), and labs prioritized coding because it accelerates AI research while design sits off that flywheel. Structurally, good design needs novelty and culture—a model that outputs the Linear website every time isn’t showing taste—and there’s a visual-to-code abstraction layer models can’t yet bridge. The practical reasons will fade; some deeper challenges around novelty, culture, and abstraction may persist.
+> 
+> The original Codex Web release was “too AGI-pilled for the moment.” The first public Codex release was built on an ambitious premise: give the model a task, and it comes back with the task finished. The problem was that the models at the time weren’t good enough to deliver on that promise reliably. Claude Code launched out locally, asked questions, and sat with the user—a much better fit for where model capability actually was. Andrew thinks about that calibration question constantly: are we building for where the models are, or for where we wish they were?
+> 
+> Timing the model matters as much as the shape of the product. Andrew is confident that the Codex app launched in February 2026 would have failed if it had shipped in November 2025. The shape was identical; the models were not. The lesson generalizes: keep prototypes of features that aren’t ready yet, revisit them with each new model generation, and resist the temptation to kill a feature just because it’s premature. “It might not be ready yet” is very different from “it’s a bad feature.”
+> 
+> Product planning now works in inverse proportion to time horizon: the further out you plan, the hazier it has to stay. Andrew’s heuristic is that the shorter the horizon, the more detail you should attach. Anything nine months out should be deliberately vague, because adding precision to a nine-month plan right now is adding false precision. His approach from his previous company: list everything you’re interested in, prototype all of it, decide what’s ready based on current model capability, let the rest sit and bake, and re-test each item every time there’s a meaningful model leap.
+> 
+> The design process isn’t dead. Yes, the formal design process as taught in design schools is finished. What remains is the meta-awareness of where in the product development process you actually are. The danger Andrew sees is the fully polished prototype that looks production-ready before anyone has done the research, and a roomful of people who assume it’s further along than it is. “That’s the design process now,” he says, “multiplayer exploration that looks like a finished product.”
+> 
+> “PRDs are dead” is completely wrong. Because implementation has become cheap across every format, it’s tempting for non-engineers to jump straight to prototypes and for engineers to write documents—even when neither is the right tool. Andrew’s rule: if you’re trying to establish product clarity around a vague area, it’s probably a document; if you’re stress-testing an interaction pattern, it’s a prototype. The medium used to carry an implicit signal about where you were in the process, and now it doesn’t. You have to say that part out loud.
+> 
+> Taste isn’t just about aesthetics—it’s deciding what to build when you can build anything. Andrew points to a tweet arguing that people overemphasize taste’s aesthetic side (the example: Paul Graham has great taste and wears cargo shorts). Real taste blends aesthetics with systems thinking: knowing the direction, the theme, and how to present an idea. The hardest version is the question “If we can build anything, what should this be?”—which he says is now the most important decision to make, in every field.
+> 
+> Most careers are longer than any one moment of failure. Andrew’s current success at OpenAI is, in his telling, 10 to 15 years of accumulation: skill set, passion, and market timing finally lining up at once.
+
+https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape?utm_source=post-email-title&publication_id=10845&post_id=202769820&utm_campaign=email-post-title&isFreemail=false&r=969sr&triedRedirect=true
