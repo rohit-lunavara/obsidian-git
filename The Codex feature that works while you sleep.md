@@ -20,4 +20,5 @@ tags:
 > 
 > Goals aren’t token-cheap, but they’re worth it. Claire’s email cleanup used about 6 million tokens over four hours. But the alternative—manually categorizing thousands of emails or chasing down hundreds of error logs—would take far longer and be far more tedious.
 
+[]()
 https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and?utm_source=post-email-title&publication_id=10845&post_id=199541302&utm_campaign=email-post-title&isFreemail=false&r=969sr&triedRedirect=true
