@@ -1,0 +1,30 @@
+---
+tags:
+  - fleeting
+---
+# References
+
+> [!QUOTE] Original Capture
+> There’s no staff engineer running as many rigorous benchmarks as someone using an agent. Ankur viscerally disagrees with engineers who say AI can’t handle complicated problems. While models might not be perfect at writing highly concurrent code, they excel at running exhaustive experiments—testing every column store format, every execution engine, every optimization strategy. The baseline of rigor you get from agents is incredible, and there’s simply no excuse anymore to skip benchmarks because they’re tedious.
+> 
+> The agent line keeps going up—and you need to identify what’s below it. Many interactions, decisions, and directions that feel like they need human judgment actually fit “below the agent line.” If you took the information from a meeting and gave it to an agent, would it solve the same problem? Increasingly, the answer is yes. The best teams push this line higher by building smart skills and integrations that expand what agents can handle autonomously.
+> 
+> Practical quality beats theoretical quality every time. In theory, a human engineer with infinite time and focus might produce better code than an AI agent. In practice, humans lose context over days, have decaying attention spans on hard-but-tedious problems, and skip benchmarks they know they should run. AI agents maintain consistent focus, run every test, and can work on problems continuously for days or weeks. The practical quality of AI-assisted engineering is higher because of sustained rigor, not because the code is theoretically better.
+> 
+> You can now bite off much harder technical problems than before. Companies historically avoid major infrastructure changes because the cost of testing alternatives is prohibitively high and the unknown unknowns are risky. With AI agents, you can exhaustively test six different database solutions, run thousands of benchmarks on production-scale data, and make informed decisions about platform shifts that would have been impossible before. The business case for deep technical work becomes much easier when agents do the heavy lifting.
+> 
+> Run four to six foreground agents simultaneously—that’s the human concurrency limit. Ankur runs different agents working on different problems. This matches the personal concurrency limit most people can manage; you can’t effectively context switch between more than that. Some agents run locally, and others run remotely on cloud infrastructure with production-scale data. The key is isolation: each agent has its own environment, ports, and services.
+> 
+> Evals are the modern PRD—they define what success looks like, not how to achieve it. Machine learning shifts programming from defining implementation details to defining success criteria. Just like the best PRDs include user stories and examples, the best evals include concrete test cases and scoring functions. The difference is that evals quantify success in ways that can be automatically measured and improved. This lets you focus on outcomes while AI figures out the implementation.
+> 
+> Build a feedback loop that automatically turns real-world data into evals. For AI product teams, the #1 engineering priority isn’t prompt engineering or picking an agent framework—it’s building a pipeline that summons real-world data and converts it into evals. This is the same principle as investing in CI for traditional software: you’re building the platform that lets agents do the work engineers used to do manually. Without this feedback loop, you’re stuck in whack-a-mole mode, fixing individual cases without systematic improvement.
+> 
+> Quantify your designer’s taste so it scales across your product. Ankur runs hundreds of evals to improve things quantitatively, then asks David (their tastemaker designer) for a vibe check every few days. When David destroys his work, Ankur captures the feedback (“David thinks it’s OK to show both languages as long as . . .”) and improves the scoring functions to encode David’s palette. This doesn’t replace David; it amplifies him. They’re able to apply David’s quality bar to more things than he could ever review manually.
+> 
+> Product building is now carving, not constructing. It’s extremely fast to create something with too many features, too many buttons, and too much code. The hard part is removing stuff. When customers complain, Braintrust removes the thing causing confusion 90% of the time, making the system work better by eliminating complexity. This is the opposite of traditional product development, where you carefully add features one by one.
+> 
+> Invest in CI to earn the ability to move faster—it’s the platform for AI-powered engineering. Every engineer is now building a platform upon which agents do the work engineers used to do manually. For traditional software, that platform is CI. If you feel constrained by velocity, don’t ship crappy stuff faster. Instead, pause and improve CI so you earn the ability to move faster safely. The same principle applies to AI products: build the eval pipeline first, then let agents optimize within that system.
+> 
+> When agents fail, close the session and improve the evals—don’t yell or bribe. Ankur’s back-pocket strategy is remarkably disciplined: he doesn’t try to prompt his way out of problems. He closes the session, improves the evaluation criteria or success metrics, and starts fresh. Sometimes this means hand-writing code to better understand the problem (like when he spent a weekend hand-writing a 3,000-line eval that had become trash through vibe coding). The solution is always better evals, not better prompting.
+
+https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and?utm_source=post-email-title&publication_id=10845&post_id=201229065&utm_campaign=email-post-title&isFreemail=false&r=969sr&triedRedirect=true

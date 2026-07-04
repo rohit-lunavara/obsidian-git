@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Earn a Billion Dollars.md",
-                "mode": "preview",
+                "file": "The Codex feature that works while you sleep.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Earn a Billion Dollars"
+              "title": "The Codex feature that works while you sleep"
             }
           }
         ]
@@ -211,8 +211,10 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "How to Find Time for Learning.md",
+    "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal.md",
+    "The Codex feature that works while you sleep.md",
     "How to Earn a Billion Dollars.md",
+    "How to Find Time for Learning.md",
     "How to get better at your job.md",
     "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO).md",
     "24 tips for giving S-tier demos.md",
@@ -238,9 +240,7 @@
     "Claude Opus 4.6 vs GPT-5.3 Codex - Which is the better software engineer?.md",
     "Trust Factory.md",
     "What launched at Google I/What launched at Google IO 2026 (30-minute day 1 recap).md",
-    "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic).md",
     "What launched at Google I",
-    "Ways to actually be helpful to others.md",
     "Pasted image 20260521231714.png",
     "Pasted image 20260511200018.png",
     "Pasted image 20260511195622.png",
