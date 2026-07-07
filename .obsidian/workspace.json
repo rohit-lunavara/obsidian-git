@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positioning in the Age of AI.md",
+                "file": "Be impatient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Positioning in the Age of AI"
+              "title": "Be impatient"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "The Code Agent Orchestra - what makes multi-agent coding work.md",
     "Positioning in the Age of AI.md",
+    "Be impatient.md",
+    "The Code Agent Orchestra - what makes multi-agent coding work.md",
     "Your parallel Agent limit.md",
     "How to turn Claude Code into your personal life operating system | Hilary Gridley.md",
     "How Stripe built “minions”—AI coding agents that ship 1,300 PRs weekly from Slack reactions | Steve Kaliski (Stripe engineer).md",
@@ -236,7 +237,6 @@
     "Writing about writing.md",
     "How Claude Mythos found a 15-year-old bug in Mozilla Firefox - Brian Grinstead.md",
     "How to design AI agent loops - schedules, goals, and subagents in Claude Code and Codex.md",
-    "Revised rules of engineering leadership.md",
     "Pasted image 20260611211318.png",
     "Pasted image 20260611211310.png",
     "Pasted image 20260611211259.png",
