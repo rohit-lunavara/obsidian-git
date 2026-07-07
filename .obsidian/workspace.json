@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Your parallel Agent limit.md",
+                "file": "Positioning in the Age of AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Your parallel Agent limit"
+              "title": "Positioning in the Age of AI"
             }
           }
         ]
@@ -211,8 +211,10 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "How to turn Claude Code into your personal life operating system | Hilary Gridley.md",
+    "The Code Agent Orchestra - what makes multi-agent coding work.md",
+    "Positioning in the Age of AI.md",
     "Your parallel Agent limit.md",
+    "How to turn Claude Code into your personal life operating system | Hilary Gridley.md",
     "How Stripe built “minions”—AI coding agents that ship 1,300 PRs weekly from Slack reactions | Steve Kaliski (Stripe engineer).md",
     "How Fundraising Actually Works.md",
     "Mastering Midjourney - How to create consistent, beautiful brand imagery without complex prompts.md",
@@ -235,8 +237,6 @@
     "How Claude Mythos found a 15-year-old bug in Mozilla Firefox - Brian Grinstead.md",
     "How to design AI agent loops - schedules, goals, and subagents in Claude Code and Codex.md",
     "Revised rules of engineering leadership.md",
-    "How to share your point of view (even if you’re afraid of being wrong).md",
-    "This week on How I AI - I gave Claude Code our entire codebase. Our customers noticed.md",
     "Pasted image 20260611211318.png",
     "Pasted image 20260611211310.png",
     "Pasted image 20260611211259.png",
