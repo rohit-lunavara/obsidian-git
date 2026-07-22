@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be impatient.md",
+                "file": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas | Alex Lieberman (Tenex).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Be impatient"
+              "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas | Alex Lieberman (Tenex)"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "Positioning in the Age of AI.md",
     "Be impatient.md",
+    "How the founder of Morning Brew built a Claude content machine that never runs out of ideas | Alex Lieberman (Tenex).md",
+    "Positioning in the Age of AI.md",
     "The Code Agent Orchestra - what makes multi-agent coding work.md",
     "Your parallel Agent limit.md",
     "How to turn Claude Code into your personal life operating system | Hilary Gridley.md",
@@ -236,7 +237,6 @@
     "The new inner game - Your unfair advantage in the age of AI.md",
     "Writing about writing.md",
     "How Claude Mythos found a 15-year-old bug in Mozilla Firefox - Brian Grinstead.md",
-    "How to design AI agent loops - schedules, goals, and subagents in Claude Code and Codex.md",
     "Pasted image 20260611211318.png",
     "Pasted image 20260611211310.png",
     "Pasted image 20260611211259.png",
