@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discouraged? Here’s How to Stay Motivated.md",
+                "file": "Canon 3X - Explore/Expand/Extract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discouraged? Here’s How to Stay Motivated"
+              "title": "Extract"
             }
           }
         ]
@@ -211,8 +211,11 @@
   },
   "active": "084ea7fda73057d2",
   "lastOpenFiles": [
-    "Claude Cowork 101 - How to automate your workday without touching code - JJ Englert (Tenex).md",
     "Discouraged? Here’s How to Stay Motivated.md",
+    "Canon 3X - Explore/Expand/Extract.md",
+    "Canon 3X - Explore/Expand",
+    "Canon 3X - Explore",
+    "Claude Cowork 101 - How to automate your workday without touching code - JJ Englert (Tenex).md",
     "This week on How I AI - I gave Claude Code our entire codebase. Our customers noticed.md",
     "The Pmarca Guide to Startups — Marc Andreessen.md",
     "Before you delegate, ask yourself these 6 questions.md",
@@ -245,7 +248,6 @@
     "Bias Toward Action.md",
     "The Codex feature that works while you sleep.md",
     "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal.md",
-    "How to Earn a Billion Dollars.md",
     "Pasted image 20260611211318.png",
     "What launched at Google I",
     "Untitled.canvas",
